@@ -1,0 +1,6 @@
+.terraform
+Key_Pair.tf
+backend.tf
+terraform.tfstate
+terraform.tfstate.backup
+terraform.lock.hcl
